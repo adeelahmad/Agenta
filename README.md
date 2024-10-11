@@ -1,4 +1,4 @@
-# AgenticApp Feature Roadmap and Task List
+# Feature Roadmap and Task List
 
 ## Core Framework Features
 
